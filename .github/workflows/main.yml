@@ -1,4 +1,4 @@
-name: Python application test with Github Action
+name: AWS python
 on: [push]
 jobs:
   build:
