@@ -3,4 +3,4 @@ def add(x, y):
 
 
 result = add(1, 2)
-print(f"this is the sum: 1, 2, %s" % result)
+print(f"this is the sum: 1, 2, {result}")
